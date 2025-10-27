@@ -62,14 +62,6 @@ Metodologias: SPIN Selling, MEDDPICC (Gestão de Pipeline, Forecast Rigoroso).
 
 Tecnologia: ERP, Sistemas Analytics, Business Intelligence (BI), Soluções SaaS e B2B.
 
-RESULTADOS QUANTIFICÁVEIS ALINHADOS À VAGA
-Métrica	Resultado Wagner	Aplicação no Grupo Arnone
-Venda Single Deal	R$ 2M (Nissan)	Capacidade de fechar contratos de alto valor (GRP, ESG)
-Abertura de Mercado	Rede CNH completa	Expansão de atuação da Arnone em novos setores
-Superação de Metas	Múltiplos trimestres (TOTVS)	Previsibilidade e orientação a resultados
-Perfil Hunter	Primeira venda: Grupo Amazonas	Prospecção ativa de grandes contas
-Transformação Digital	Implementação Analytics/BI	Alinhamento com inovação tecnológica da Arnone
-
 
 🔗 Contato
 
